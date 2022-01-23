@@ -1,10 +1,10 @@
 //
-//  ViewController.swift
+//  SecondViewController.swift
 //  BMI Calculator
 //
-//  Created by Angela Yu on 21/08/2019.
-//  Copyright © 2019 Angela Yu. All rights reserved.
-//
+//  Created by Vivek Kumar Singh on 24/01/22.
+
+
 
 import UIKit
 
